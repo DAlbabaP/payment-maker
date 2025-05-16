@@ -1,0 +1,2 @@
+from paymentmaker.gui.modern_settings import ModernSettingsDialog
+SettingsDialog = ModernSettingsDialog
